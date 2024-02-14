@@ -160,7 +160,7 @@ header {
   letter-spacing: 0;
   color: #ffffff;
   -webkit-filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9);
-          filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9); /* Adds a subtle glow effect and enhances the vibrancy */
+          filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9);
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
@@ -326,7 +326,7 @@ header {
   top: 12%;
   left: 39.6%;
   -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__clover {
@@ -334,7 +334,7 @@ header {
   top: 85%;
   left: 39.8%;
   -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__fruit {
@@ -348,7 +348,7 @@ header {
   top: 39.5%;
   left: 91.7%;
   -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__moneybag {
@@ -356,7 +356,7 @@ header {
   top: 21.2%;
   left: 26%;
   -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__plum {
@@ -364,7 +364,7 @@ header {
   top: 59.1%;
   left: 92.9%;
   -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__seven {
@@ -372,7 +372,7 @@ header {
   top: 11%;
   left: 70.9%;
   -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__strawberry {
@@ -380,7 +380,7 @@ header {
   top: 8.8%;
   left: 53.6%;
   -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__watermelon {
@@ -388,7 +388,7 @@ header {
   top: 90.1%;
   left: 55.6%;
   -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__lemon {
@@ -396,7 +396,7 @@ header {
   top: 85%;
   left: 87.3%;
   -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__cherry-mobile {
@@ -764,7 +764,7 @@ header {
     top: 23.5%;
     left: 81.6%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__clover-mobile {
     display: block;
@@ -772,7 +772,7 @@ header {
     top: 62.7%;
     left: 7%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__fruit-mobile {
     display: block;
@@ -780,7 +780,7 @@ header {
     top: 84.4%;
     left: 80%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__horseshoe-mobile {
     display: block;
@@ -788,7 +788,7 @@ header {
     top: 10.9%;
     left: 8.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__lemon-mobile {
     display: block;
@@ -796,7 +796,7 @@ header {
     top: 12%;
     left: 78.9%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__moneybag-mobile {
     display: block;
@@ -804,7 +804,7 @@ header {
     top: 23.7%;
     left: 4.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__seven-mobile {
     display: block;
@@ -812,7 +812,7 @@ header {
     top: 50%;
     left: 84.1%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__strawberry-mobile {
     display: block;
@@ -820,7 +820,7 @@ header {
     top: 67.3%;
     left: 79.7%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon1-mobile {
     display: block;
@@ -828,7 +828,7 @@ header {
     top: 82.6%;
     left: 8.3%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon2-mobile {
     display: block;
@@ -836,7 +836,7 @@ header {
     top: 41%;
     left: 14%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__cherry {
     display: none;
@@ -1190,7 +1190,7 @@ header {
     top: 23.5%;
     left: 84.6%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__clover-mobile {
     display: block;
@@ -1198,7 +1198,7 @@ header {
     top: 62.7%;
     left: 7%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__fruit-mobile {
     display: block;
@@ -1206,7 +1206,7 @@ header {
     top: 84.4%;
     left: 80%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__horseshoe-mobile {
     display: block;
@@ -1214,7 +1214,7 @@ header {
     top: 10.9%;
     left: 8.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__lemon-mobile {
     display: block;
@@ -1222,7 +1222,7 @@ header {
     top: 12%;
     left: 78.9%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__moneybag-mobile {
     display: block;
@@ -1230,7 +1230,7 @@ header {
     top: 23.7%;
     left: 4.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__seven-mobile {
     display: block;
@@ -1238,7 +1238,7 @@ header {
     top: 50%;
     left: 86.1%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__strawberry-mobile {
     display: block;
@@ -1246,7 +1246,7 @@ header {
     top: 67.3%;
     left: 82.7%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon1-mobile {
     display: block;
@@ -1254,7 +1254,7 @@ header {
     top: 82.6%;
     left: 15.3%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon2-mobile {
     display: block;
@@ -1262,7 +1262,7 @@ header {
     top: 41%;
     left: 14%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__cherry {
     display: none;
@@ -1461,7 +1461,7 @@ header {
     letter-spacing: 0;
     color: #ffffff;
     -webkit-filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9);
-            filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9); /* Adds a subtle glow effect and enhances the vibrancy */
+            filter: drop-shadow(0 0 5px #df84f9) drop-shadow(0 0 5px #df84f9);
     -webkit-transition: 0.5s;
     transition: 0.5s;
   }
@@ -1614,8 +1614,8 @@ header {
     position: absolute;
     top: 25.5%;
     left: 81.6%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
   }
   .image__clover-mobile {
     display: block;
@@ -1623,15 +1623,15 @@ header {
     top: 64.7%;
     left: 7%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__fruit-mobile {
     display: block;
     position: absolute;
     top: 83.4%;
     left: 80%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate;
   }
   .image__horseshoe-mobile {
     display: block;
@@ -1639,7 +1639,7 @@ header {
     top: 10.9%;
     left: 8.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__lemon-mobile {
     display: block;
@@ -1647,7 +1647,7 @@ header {
     top: 9%;
     left: 78.9%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__moneybag-mobile {
     display: block;
@@ -1655,39 +1655,39 @@ header {
     top: 23.7%;
     left: 4.2%;
     -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+            animation: bellSwing 2s ease-in-out infinite alternate;
   }
   .image__seven-mobile {
     display: block;
     position: absolute;
     top: 52%;
     left: 85.1%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate;
   }
   .image__strawberry-mobile {
     display: block;
     position: absolute;
     top: 67.3%;
     left: 78.7%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon1-mobile {
     display: block;
     position: absolute;
     top: 83.6%;
     left: 10.3%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate;
   }
   .image__watermelon2-mobile {
     display: block;
     position: absolute;
     top: 43%;
     left: 5%;
-    -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-            animation: bellSwing 2s ease-in-out infinite alternate; /* Анимация "колокольчика" */
+    -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+            animation: reverseBellSwing 2s ease-in-out infinite alternate;
   }
   .image__cherry {
     display: none;
