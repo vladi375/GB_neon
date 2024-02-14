@@ -325,22 +325,24 @@ header {
   position: absolute;
   top: 12%;
   left: 39.6%;
-  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__clover {
   position: absolute;
   top: 85%;
-  left: 39.8%;
-  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate;
+  left: 37.8%;
+  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__fruit {
   position: absolute;
   top: 90.8%;
   left: 72.3%;
+  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__horseshoe {
@@ -355,32 +357,32 @@ header {
   position: absolute;
   top: 21.2%;
   left: 26%;
-  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: moneybagSwing 2s ease-in-out infinite alternate;
+          animation: moneybagSwing 2s ease-in-out infinite alternate;
 }
 
 .image__plum {
   position: absolute;
   top: 59.1%;
   left: 92.9%;
-  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
-          animation: reverseBellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
+          animation: bellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__seven {
   position: absolute;
   top: 11%;
   left: 70.9%;
-  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__strawberry {
   position: absolute;
   top: 8.8%;
   left: 53.6%;
-  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__watermelon {
@@ -395,8 +397,8 @@ header {
   position: absolute;
   top: 85%;
   left: 87.3%;
-  -webkit-animation: bellSwing 2s ease-in-out infinite alternate;
-          animation: bellSwing 2s ease-in-out infinite alternate;
+  -webkit-animation: reverseBellSwing 2s ease-in-out infinite alternate;
+          animation: reverseBellSwing 2s ease-in-out infinite alternate;
 }
 
 .image__cherry-mobile {
@@ -1754,6 +1756,26 @@ header {
   0% {
     -webkit-transform: rotateZ(-40deg);
             transform: rotateZ(-40deg);
+  }
+  100% {
+    -webkit-transform: rotateZ(0deg);
+            transform: rotateZ(0deg);
+  }
+}
+@-webkit-keyframes moneybagSwing {
+  0% {
+    -webkit-transform: rotateZ(30deg);
+            transform: rotateZ(30deg);
+  }
+  100% {
+    -webkit-transform: rotateZ(0deg);
+            transform: rotateZ(0deg);
+  }
+}
+@keyframes moneybagSwing {
+  0% {
+    -webkit-transform: rotateZ(30deg);
+            transform: rotateZ(30deg);
   }
   100% {
     -webkit-transform: rotateZ(0deg);
